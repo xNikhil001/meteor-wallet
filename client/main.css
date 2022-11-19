@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pc-links{
+    @apply px-4
+}
+
+.pc-links-right{
+    @apply px-3
+}
